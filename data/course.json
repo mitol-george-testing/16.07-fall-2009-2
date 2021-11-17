@@ -1,0 +1,46 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Aerodynamics"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Astrodynamics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "494d32a4-e99f-9d54-ef18-244e6a7902c8",
+      "a8f81254-5aac-4e1b-116b-6ed8d13e5f90",
+      "419a16c1-a19f-65b4-17ad-fa6b98ad3c40"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Dynamics",
+  "course_description": "This course covers the fundamentals of Newtonian mechanics, including kinematics, motion relative to accelerated reference frames, work and energy, impulse and momentum, 2D and 3D rigid body dynamics. The course pays special attention to applications in aerospace engineering including introductory topics in orbital mechanics, flight dynamics, inertial navigation and attitude dynamics. By the end of the semester, students should be able to construct idealized (particle and rigid body) dynamical models and predict model response to applied forces using Newtonian mechanics.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.07",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
